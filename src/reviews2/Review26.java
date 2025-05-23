@@ -1,3 +1,5 @@
+package reviews2;
+
 public class Review26 {
     public static void main(String[] args) {
         int[] numArray = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
