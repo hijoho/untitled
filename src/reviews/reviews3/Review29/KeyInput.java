@@ -1,7 +1,7 @@
-package reviews.reviews3;
+package reviews.reviews3.Review29;
 
 import java.io.*;
-public class Review29_KeyInput {
+public class KeyInput {
     public String readString(){
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String inputStr = "";

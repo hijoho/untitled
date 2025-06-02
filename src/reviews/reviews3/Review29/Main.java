@@ -1,8 +1,8 @@
-package reviews.reviews3;
+package reviews.reviews3.Review29;
 
-public class Review29_Main {
+public class Main {
     public static void main(String[] args) {
-        Review29_KeyInput key = new Review29_KeyInput();
+        KeyInput key = new KeyInput();
         System.out.print("宛先を入力>");
         String to = key.readString();
         System.out.print("件名を入力>");
