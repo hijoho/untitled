@@ -6,6 +6,6 @@ public class practice5_1 {
     }
 
     public static void introduceOneself(){
-
+        //あああ
     }
 }
